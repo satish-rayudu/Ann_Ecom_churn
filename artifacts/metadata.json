@@ -1,0 +1,17 @@
+{
+  "threshold": 0.7399999999999997,
+  "feature_columns": [
+    "tenure",
+    "warehousetohome",
+    "numberofdeviceregistered",
+    "preferedordercat",
+    "satisfactionscore",
+    "maritalstatus",
+    "numberofaddress",
+    "complain",
+    "daysincelastorder",
+    "cashbackamount"
+  ],
+  "test_accuracy": 0.8940936863543788,
+  "test_auc": 0.9057177615571776
+}
